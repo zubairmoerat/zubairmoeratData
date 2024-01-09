@@ -1,0 +1,134 @@
+{
+    "home": [
+        "I'm a Software Developer, UI/UX Designer and an Engineer."
+    ],
+    "about": [
+        "I'm a dynamic individual with a passion for a well-rounded lifestyle. I find joy in staying active and fit, making frequent visits to the gym to engage in various workouts. The love for the outdoors is another facet of my life, as hiking, biking, and exploring nature provides a perfect balance to the tech-driven world. On the intellectual side, I'm deeply immersed in the fields of engineering and software development. With a keen interest in problem-solving and innovation, I enjoy tackling challenges both in the physical realm through engineering projects and in the virtual world through software development. This combination of a strong body, an adventurous spirit, and a sharp mind defines my multifaceted and fulfilling lifestyle."
+    ],
+    "education": [
+        {
+            "id": 1,
+            "year": 2023,
+            "description": "I'm furthering my Software Development skills.",
+            "place": "Life Choices"
+        },
+        {
+            "id": 2,
+            "year": 2022,
+            "description": "I got my certificates on graphic design.",
+            "place": "GoogleSkills"
+        },
+        {
+            "id": 3,
+            "year": 2021,
+            "description": "I got my certificates on Mechanical Engineering.",
+            "place": "AESDP"
+        },
+        {
+            "id": 4,
+            "year": 2020,
+            "description": "I got my matric certificate with a bachelor's pass.",
+            "place": "Livingstone High School"
+        }
+    ],
+    "skills": [
+        {
+            "title": "HTML 5",
+            "experience": "Advanced"
+        },
+        {
+            "title": "CSS",
+            "experience": "Advanced"
+        },
+        {
+            "title": "JavaScript",
+            "experience": "Advanced"
+        },
+        {
+            "title": "BootStrap",
+            "experience": "Advanced"
+        },
+        {
+            "title": "UI/UX design",
+            "experience": "Advanced"
+        },
+        {
+            "title": "VueJS",
+            "experience": "Beginner"
+        },
+        {
+            "title": "C#",
+            "experience": "Beginner"
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Aakeefah",
+            "surname": "Jones",
+            "quotes": "Zubair is a true asset to any team. His passion for his work and the ability to deliver exceptional results make him an invaluable partner in any software development endeavor. I highly recommend him for any project.",
+            "profile": "https://drive.google.com/uc?id=1o_QRjmQxQBiIq60UkrMKvet_PU1KoGkX"
+        },
+        {
+            "name": "Thimna",
+            "surname": "Alam",
+            "quotes": "Zubair is one of most humble and respectful people that I know. One of he's brightest features in he's ability to grasp information and explain it to the next person like it is he's own which makes him a great leader and team player. One thing about him is that he knows how to manage he's time efficiently and he is able to communicate clearly whether if its within a crowd or one on one.",
+            "profile": "https://drive.google.com/uc?id=1dbTIQxjLVyjjop2VmbslZAtsy4fbV3ZL"
+        },
+        {
+            "name": "Corne",
+            "surname": "Balie",
+            "quotes": "Zubair Moerat is an exceptional student and a valuable addition to any team. His dedication to learning and his problem-solving skills have consistently impressed me. Zubair's passion for coding and his ability to work under pressure make him a standout developer. I have no doubt that he will excel in any future endeavors in the tech industry.",
+            "profile": "https://drive.google.com/uc?id=1UQVX2s3JLFb8-6GbxKEChosreFSzFqwR"
+        },
+        {
+            "name": "Al-Muakhir",
+            "surname": "Jones",
+            "quotes": "Always available to help, incredibly proficient, hits deadlines without fail, hard working and trustworthy. In my experience, no project is too much trouble, and with Zubair you really get a rare entity - someone that can simplify what can be a very complex industry at times.  I can recommend him without hesitation.",
+            "profile": "https://drive.google.com/uc?id=1q_pyP2xQ4QZkm6bqLutl2zPRfV3jXxe4"
+        }
+    ],
+    "projects":[
+        {
+            "name": "Owl",
+            "description": "I built this application using HTML 5 and CSS. It's a basic owl animation.",
+            "image": "https://drive.google.com/uc?id=1DQWj5y-Jfpzt5-Jnx4Cl2bYqSVl3PKh4",
+            "gitHub": "https://github.com/zubairmoerat/Owl.git",
+            "netlify": "https://owl-rho.vercel.app/"
+        },
+        {
+            "name": "Calculator",
+            "description": "This is my calculator app, and I built it using HTML 5, CSS 3 and Javascript.",
+            "image": "https://drive.google.com/uc?id=1rLMuH40RS-IFOpHLOD16YzjqflHN7rNH",
+            "gitHub": "https://github.com/zubairmoerat/Calculator.git",
+            "netlify": "https://calculator-woad-five.vercel.app/"
+        },
+        {
+            "name": "Fitness Fusion",
+            "description": "An eCommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5.",
+            "image": "https://drive.google.com/uc?id=1ev9j_V3yCsBcgWsgjswHDpeFtJgVjdjW",
+            "gitHub": "https://github.com/zubairmoerat/javaScript-EOMP.git",
+            "netlify": "https://java-script-eomp.vercel.app/"
+        },
+        {
+            "name": "BMI Calculator",
+            "description": "A body mass index I built using HTML 5, CSS and JavaScript.",
+            "image": "https://drive.google.com/uc?id=1FhB4hW7NvofehbdZMJJFA5nuMusMOvdI",
+            "gitHub": "https://github.com/zubairmoerat/BMIcalculator.git",
+            "netlify": "https://bm-icalculator-iota.vercel.app/"
+        },
+        {
+            "name": "Minutes To Seconds Converter",
+            "description": "A very simple minutes to seconds converter.",
+            "image": "https://drive.google.com/uc?id=1hUK4yaAS2n3hRsJ4ixuM3KKXeX5eANob",
+            "gitHub": "https://github.com/zubairmoerat/MinutesToSeconds.git",
+            "netlify": "https://minutes-to-seconds-three.vercel.app/"
+        },
+        {
+            "name": "Netflix",
+            "description": "I built a simple netflix-clone login page.",
+            "image": "https://drive.google.com/uc?id=1DFISFVgwgpmt5B_8cyOHa5wawY8AmXSr",
+            "gitHub": "https://github.com/zubairmoerat/Netflix.git",
+            "netlify": "https://netflix-xi-seven.vercel.app/"
+        }
+    ]
+}
