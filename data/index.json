@@ -66,80 +66,80 @@
             "name": "Aakeefah",
             "surname": "Jones",
             "quotes": "Zubair is a true asset to any team. His passion for his work and the ability to deliver exceptional results make him an invaluable partner in any software development endeavor. I highly recommend him for any project.",
-            "profile": "https://drive.google.com/uc?id=1o_QRjmQxQBiIq60UkrMKvet_PU1KoGkX"
+            "profile": "https://iili.io/J76lbcX.md.jpg"
         },
         {
             "name": "Thimna",
             "surname": "Alam",
             "quotes": "Zubair is one of most humble and respectful people that I know. One of he's brightest features in he's ability to grasp information and explain it to the next person like it is he's own which makes him a great leader and team player. One thing about him is that he knows how to manage he's time efficiently and he is able to communicate clearly whether if its within a crowd or one on one.",
-            "profile": "https://drive.google.com/uc?id=1dbTIQxjLVyjjop2VmbslZAtsy4fbV3ZL"
+            "profile": "https://iili.io/J76lUcF.md.jpg"
         },
         {
             "name": "Corne",
             "surname": "Balie",
             "quotes": "Zubair Moerat is an exceptional student and a valuable addition to any team. His dedication to learning and his problem-solving skills have consistently impressed me. Zubair's passion for coding and his ability to work under pressure make him a standout developer. I have no doubt that he will excel in any future endeavors in the tech industry.",
-            "profile": "https://drive.google.com/uc?id=1UQVX2s3JLFb8-6GbxKEChosreFSzFqwR"
+            "profile": "https://iili.io/J76laj4.md.jpg"
         },
         {
             "name": "Al-Muakhir",
             "surname": "Jones",
             "quotes": "Always available to help, incredibly proficient, hits deadlines without fail, hard working and trustworthy. In my experience, no project is too much trouble, and with Zubair you really get a rare entity - someone that can simplify what can be a very complex industry at times.  I can recommend him without hesitation.",
-            "profile": "https://drive.google.com/uc?id=1q_pyP2xQ4QZkm6bqLutl2zPRfV3jXxe4"
+            "profile": "https://iili.io/J76lNZQ.md.jpg"
         },
         {
             "name": "Niyaaz",
             "surname": "Daniels",
             "quotes": " Zubair an invaluable asset to any web development team. I wholeheartedly recommend him for his professionalism, expertise, and unwavering dedication to excellence in web development.",
-            "profile": "https://drive.google.com/uc?id=1Kt2T8NC2BHuLsChYuy9B99zLIgMZXiF4"
+            "profile": "https://iili.io/J74WXGR.png"
         },
         {
         
             "name": "Tamlin Leigh",
             "surname": "Geyer",
             "quotes": "I wholeheartedly recommend Zubair Moerat for any challenging role in a leading IT company. His exceptional coding skills, collaborative mindset, and dedication to excellence make him an ideal candidate for positions that demand the very best.",
-            "profile": "https://drive.google.com/uc?id=1UxjVSwsF1GsMWqD-hdN_onE2s_lbeb18"
+            "profile": "https://iili.io/J76lI4t.md.jpg"
         }
     ],
     "projects":[
         {
             "name": "Owl",
             "description": "I built this application using HTML 5 and CSS. It's a basic owl animation.",
-            "image": "https://drive.google.com/uc?id=1DQWj5y-Jfpzt5-Jnx4Cl2bYqSVl3PKh4",
+            "image": "https://i.postimg.cc/HL2WzVw7/vue-Project1.png",
             "gitHub": "https://github.com/zubairmoerat/Owl.git",
             "netlify": "https://owl-rho.vercel.app/"
         },
         {
             "name": "Calculator",
             "description": "This is my calculator app, and I built it using HTML 5, CSS 3 and Javascript.",
-            "image": "https://drive.google.com/uc?id=1rLMuH40RS-IFOpHLOD16YzjqflHN7rNH",
+            "image": "https://i.postimg.cc/bdcjph0h/vue-Project2.png",
             "gitHub": "https://github.com/zubairmoerat/Calculator.git",
             "netlify": "https://calculator-woad-five.vercel.app/"
         },
         {
             "name": "Fitness Fusion",
             "description": "An eCommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5.",
-            "image": "https://drive.google.com/uc?id=1ev9j_V3yCsBcgWsgjswHDpeFtJgVjdjW",
+            "image": "https://i.postimg.cc/rwTK96B3/vue-Project3.png",
             "gitHub": "https://github.com/zubairmoerat/javaScript-EOMP.git",
             "netlify": "https://java-script-eomp.vercel.app/"
         },
         {
             "name": "BMI Calculator",
             "description": "A body mass index I built using HTML 5, CSS and JavaScript.",
-            "image": "https://drive.google.com/uc?id=1FhB4hW7NvofehbdZMJJFA5nuMusMOvdI",
+            "image": "https://i.postimg.cc/D0q7W0wZ/vue-Project4.png",
             "gitHub": "https://github.com/zubairmoerat/BMIcalculator.git",
             "netlify": "https://bm-icalculator-iota.vercel.app/"
         },
         {
             "name": "Minutes To Seconds Converter",
             "description": "A very simple minutes to seconds converter.",
-            "image": "https://drive.google.com/uc?id=1hUK4yaAS2n3hRsJ4ixuM3KKXeX5eANob",
+            "image": "https://i.postimg.cc/wvLC2P84/vue-Project5.png",
             "gitHub": "https://github.com/zubairmoerat/MinutesToSeconds.git",
             "netlify": "https://minutes-to-seconds-three.vercel.app/"
         },
         {
             "name": "Netflix",
             "description": "I built a simple netflix-clone login page.",
-            "image": "https://drive.google.com/uc?id=1DFISFVgwgpmt5B_8cyOHa5wawY8AmXSr",
+            "image": "https://i.postimg.cc/vZKCsMGS/vue-Project6.png",
             "gitHub": "https://github.com/zubairmoerat/Netflix.git",
             "netlify": "https://netflix-xi-seven.vercel.app/"
         }
