@@ -31,31 +31,38 @@
     "skills": [
         {
             "title": "HTML 5",
-            "experience": "Advanced"
+            "experience": "Advanced",
+            "image": "https://iili.io/J7mzrXf.md.png"
         },
         {
             "title": "CSS",
-            "experience": "Advanced"
+            "experience": "Advanced",
+            "image": "https://iili.io/J7mzhsR.md.png"
         },
         {
             "title": "JavaScript",
-            "experience": "Advanced"
+            "experience": "Intermediate",
+            "image": ""
         },
         {
             "title": "BootStrap",
-            "experience": "Advanced"
+            "experience": "Advanced",
+            "image": "https://iili.io/J7mzv5X.md.png"
         },
         {
             "title": "UI/UX design",
-            "experience": "Advanced"
+            "experience": "Advanced",
+            "image": "https://iili.io/J7mz4s4.md.png"
         },
         {
             "title": "VueJS",
-            "experience": "Beginner"
+            "experience": "Beginner",
+            "image": "https://iili.io/J7mzi12.md.png"
         },
         {
             "title": "C#",
-            "experience": "Beginner"
+            "experience": "Beginner",
+            "image": "https://iili.io/J7mzSbs.md.png"
         }
     ],
     "testimonials": [
